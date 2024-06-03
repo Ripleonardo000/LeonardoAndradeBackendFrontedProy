@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeonardoAndradeBackendMVC", "LeonardoAndradeBackendMVC.csproj", "{6F9A7F0F-18F4-4898-86DC-23F7B4552213}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeonardoAndradeBackendAPI", "..\LeonardoAndradeBackendAPI\LeonardoAndradeBackendAPI.csproj", "{0E85B1EE-F794-437C-8004-D4FD6A425021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeonardoAndradeFrontedMaui", "..\LeonardoAndradeFrontedMaui\LeonardoAndradeFrontedMaui.csproj", "{93D840DC-CC21-4876-BD0B-81BC9E17892F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9A7F0F-18F4-4898-86DC-23F7B4552213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9A7F0F-18F4-4898-86DC-23F7B4552213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9A7F0F-18F4-4898-86DC-23F7B4552213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9A7F0F-18F4-4898-86DC-23F7B4552213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E85B1EE-F794-437C-8004-D4FD6A425021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E85B1EE-F794-437C-8004-D4FD6A425021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E85B1EE-F794-437C-8004-D4FD6A425021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E85B1EE-F794-437C-8004-D4FD6A425021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D840DC-CC21-4876-BD0B-81BC9E17892F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C59DA3-AFFB-40EF-96E6-E5A7B81ECBB7}
+	EndGlobalSection
+EndGlobal

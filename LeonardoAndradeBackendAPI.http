@@ -1,0 +1,6 @@
+@LeonardoAndradeBackendAPI_HostAddress = http://localhost:5097
+
+GET {{LeonardoAndradeBackendAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
